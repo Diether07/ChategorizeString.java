@@ -1,5 +1,5 @@
 /* Chapter 8 Exercise 5 a
- * Programmer : Diosdado Cartas
+ * Programmer : 
  * Date : September 30, 2022
  * 
  * Write an application that accepts up to 20 Strings, or fewer if the user enters a terminating value.
